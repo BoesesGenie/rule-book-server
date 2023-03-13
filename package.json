@@ -1,0 +1,19 @@
+{
+  "name": "rule-book-server",
+  "version": "0.0.1",
+  "description": "Rule book server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BoesesGenie/rule-book-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BoesesGenie/rule-book-server/issues"
+  },
+  "homepage": "https://github.com/BoesesGenie/rule-book-server#readme"
+}
